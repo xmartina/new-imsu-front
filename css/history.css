@@ -1,0 +1,23 @@
+.heroimage
+{
+    background: url('/images/Rectangle\ 3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:24.375rem;
+    padding-top:8.4375rem
+   
+}
+
+.backgroundimg
+{
+    background: url('/images/Rectangle\ 316.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:364px;
+    
+   
+}
+body
+{
+    font-family: 'Poppins';
+}
