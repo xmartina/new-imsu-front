@@ -1,3 +1,4 @@
+<?php include 'header.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,3 +61,4 @@ Pharetra eget facilisis ultrices cras in massa bibendum. Tristique orci quis dui
   
 </body>
 </html>
+<?php include 'footer.php'; ?>
